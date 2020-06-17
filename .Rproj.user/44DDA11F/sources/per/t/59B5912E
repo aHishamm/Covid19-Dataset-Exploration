@@ -1,0 +1,25 @@
+{
+    "id": "59B5912E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1592035747989.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "506edbb4efb1436dac968e3a9632fe45",
+        "name": "ggplot(FIRST10COUNTRIESCONFIRMED, aes(y = Confirmed, x = Country.Region, ",
+        "title": "ggplot(FIRST10COUNTRIESCONFIRMED, aes(y = Confirmed, x = Country.Region, "
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7018351153194875426,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592035747989,
+    "read_only": false,
+    "read_only_alternatives": []
+}

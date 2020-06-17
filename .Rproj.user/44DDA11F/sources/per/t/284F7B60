@@ -1,0 +1,32 @@
+{
+    "id": "284F7B60",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1592304098551.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "FIRST10COUNTRIESCONFIRMED",
+        "caption": "FIRST10COUNTRIESCONFIRMED",
+        "totalObservations": 10,
+        "displayedObservations": 10,
+        "variables": 2,
+        "cacheKey": "44D29DA4",
+        "object": "FIRST10COUNTRIESCONFIRMED",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FIRST10COUNTRIESCONFIRMED&cache_key=44D29DA4&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3180141808686625652,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592304098551,
+    "read_only": false,
+    "read_only_alternatives": []
+}

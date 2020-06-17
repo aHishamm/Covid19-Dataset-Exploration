@@ -1,0 +1,17 @@
+```{r Covid19DataExplorationHW}
+#reading the CSV into R
+library(ggplot2)
+covid19Data <- read.csv("Path for country_wise_latest.csv", stringsAsFactors = FALSE, header=TRUE)
+covid19Data
+
+#storing the first 10 rows and the first 2 columns in a separate variable,, ggplot to visualize it
+FIRST10COUNTRIESCONFIRMED <- covid19Data[1:10,1:2]
+ggplot(FIRST10COUNTRIESCONFIRMED, aes(y=Confirmed, x=Country.Region, size=Confirmed, color=Country.Region)) + geom_point()
+
+#visualizing using a barplot
+FIRST10COUNTRIESCONFIRMED
+barplot(FIRST10COUNTRIESCONFIRMED$Confirmed, names.arg = FIRST10COUNTRIESCONFIRMED$Country.Region, ylab = "Number of confirmed cases")
+
+
+
+```
